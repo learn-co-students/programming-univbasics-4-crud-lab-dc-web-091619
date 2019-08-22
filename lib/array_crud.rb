@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array(array)
-  array.size = [4]
+def create_an_array
+  array.size = ["Wow", "I", "am", "learning"]
 end
 
 def add_element_to_end_of_array(array, element)
